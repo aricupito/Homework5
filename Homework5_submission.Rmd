@@ -1,0 +1,22 @@
+---
+title: "Homework5_submission"
+author: "Andrew"
+date: "2023-03-01"
+output: html_document
+---
+
+Question 1: ![Question 1](Question1.png)
+
+Question 2:
+
+GitHub screenshot: ![Question 2](Question2a.png)
+
+Code to create pat: ![Question 2](Question2b.png)
+
+Question 3: ![Question 3](Question3.png)
+
+Question 4: ![Question 4](Question4.png)
+
+Question 5: [url](https://github.com/aricupito/Homework5/tree/main)
+
+Question 6: Top commit message is correct. ![Question 6](Question6.png)
