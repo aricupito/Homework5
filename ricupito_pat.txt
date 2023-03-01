@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 usethis::create_github_token()
 gitcreds::gitcreds_set()
 usethis::git_sitrep()
+=======
+usethis::create_github_token()
+gitcreds::gitcreds_set()
+usethis::git_sitrep()
+>>>>>>> fa4f0556b2b3300d5f46f8844d69a729349046c4
